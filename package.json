@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "Rayane",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -16,6 +17,5 @@
   },
   "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
   "version": "1.0.0",
-  "author": "Rayane",
   "license": "ISC"
 }
