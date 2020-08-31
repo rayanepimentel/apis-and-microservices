@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "description": "A project that does something awesome",
   "version": "1.0.0",
-  "license": "ISC"
+  "license": "ISC" 
 }
