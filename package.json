@@ -17,5 +17,6 @@
   },
   "description": "A project that does something awesome",
   "version": "1.0.0",
-  "license": "ISC" 
+  "license": "ISC" ,
+  "keywords": [ "freecodecamp", "desafio", "node" ]
 }
